@@ -1,0 +1,60 @@
+{
+  "lugares": [
+    {
+      "id": 1,
+      "nome": "Grande Muralha da China",
+      "pais": "China",
+      "descricao": "Antiga muralha construída para proteger o império chinês.",
+      "lat": 40.4319,
+      "lng": 116.5704
+    },
+    {
+      "id": 2,
+      "nome": "Cristo Redentor",
+      "pais": "Brasil",
+      "descricao": "Estátua icônica no topo do Corcovado, Rio de Janeiro.",
+      "lat": -22.9519,
+      "lng": -43.2105
+    },
+    {
+      "id": 3,
+      "nome": "Machu Picchu",
+      "pais": "Peru",
+      "descricao": "Cidade inca construída no alto dos Andes.",
+      "lat": -13.1631,
+      "lng": -72.5450
+    },
+    {
+      "id": 4,
+      "nome": "Coliseu",
+      "pais": "Itália",
+      "descricao": "Anfiteatro romano construído no século I d.C.",
+      "lat": 41.8902,
+      "lng": 12.4922
+    },
+    {
+      "id": 5,
+      "nome": "Taj Mahal",
+      "pais": "Índia",
+      "descricao": "Mausoléu de mármore branco construído por Shah Jahan.",
+      "lat": 27.1751,
+      "lng": 78.0421
+    },
+    {
+      "id": 6,
+      "nome": "Chichén Itzá",
+      "pais": "México",
+      "descricao": "Antiga cidade maia com a famosa pirâmide El Castillo.",
+      "lat": 20.6843,
+      "lng": -88.5678
+    },
+    {
+      "id": 7,
+      "nome": "Petra",
+      "pais": "Jordânia",
+      "descricao": "Cidade esculpida na rocha vermelha no deserto da Jordânia.",
+      "lat": 30.3285,
+      "lng": 35.4444
+    }
+  ]
+}
