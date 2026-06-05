@@ -37,8 +37,8 @@ Mapa com localização dos eventos: Especialmente útil se os eventos forem em d
 
 ## Prints do trabalho
 
-![alt text](<imagens/Captura de Tela 2026-06-04 às 22.15.16.png>) 
-![alt text](<imagens/Captura de Tela 2026-06-04 às 22.15.10.png>) 
-![alt text](<imagens/Captura de Tela 2026-06-04 às 22.17.02.png>) 
-![alt text](<imagens/Captura de Tela 2026-06-04 às 22.16.48.png>)
+![alt text](<imagens/imagem1.png>) 
+![alt text](<imagens/imagem2.png>) 
+![alt text](<imagens/imagem3.png>) 
+![alt text](<imagens/imagem4.png>)
 
