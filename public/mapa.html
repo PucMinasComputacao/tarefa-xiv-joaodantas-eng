@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Mapa - Lugares Turísticos</title>
+  <link href="https://api.mapbox.com/mapbox-gl-js/v3.2.0/mapbox-gl.css" rel="stylesheet" />
+  <script src="https://api.mapbox.com/mapbox-gl-js/v3.2.0/mapbox-gl.js"></script>
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <header>
+    <h1>🌍 Lugares Turísticos</h1>
+    <nav>
+      <a href="index.html">Gerenciar</a>
+      <a href="mapa.html" class="ativo">Ver no Mapa</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="mapa-container">
+      <h2>Mapa Interativo</h2>
+      <p>Clique em um marcador para ver os detalhes do lugar.</p>
+      <div id="mapa"></div>
+    </section>
+  </main>
+
+  <script src="mapa.js"></script>
+</body>
+</html>

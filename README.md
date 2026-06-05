@@ -32,14 +32,13 @@ Mapa com localização dos eventos: Especialmente útil se os eventos forem em d
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: João Pedro Silva Dantas 
+- Matricula: 915802
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
-
-<<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
-
-<<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
+![alt text](<imagens/Captura de Tela 2026-06-04 às 22.15.16.png>) 
+![alt text](<imagens/Captura de Tela 2026-06-04 às 22.15.10.png>) 
+![alt text](<imagens/Captura de Tela 2026-06-04 às 22.17.02.png>) 
+![alt text](<imagens/Captura de Tela 2026-06-04 às 22.16.48.png>)
 
